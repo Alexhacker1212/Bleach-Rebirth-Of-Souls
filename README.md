@@ -19,7 +19,7 @@ font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height
 
 <h4 align="center">
 
-- Título: Bleach Rebirth Of Souls
+<h1 align="center">Título: Bleach Rebirth Of Souls:</h1>  
 - Serial: CUSA25090
 - Región: JPN
 - Idioma: Ingles

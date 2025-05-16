@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 <a href="[https://github.com/Alexhacker1212/PS3_ROM_CITY/assets/173580098/f84c0299-40f0-4fa6-8d9f-b375e67fb035](https://github.com/Alexhacker1212/Bleach-Rebirth-Of-Souls.git)
-" target="_blank"><img src="https://media.vandal.net/m/3-2025/11/20253111146203_1.jpg" /></a>
+" target="_blank"><img src="https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/BrJb5CeuQHyUyyXIcX4w" /></a>
 <h1 align="center">Bleach Rebirth Of Souls</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
@@ -23,12 +23,6 @@ Región: JPN
 Idioma: Ingles
 Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB
 Formato: #PKG
-
-> Nota: Funciona en la 5.05, 9.00 en adelante
-
-ES 3 PARTE EN WINRAR DEL JUEGO\
-ES 1 PARTE EN WINRAR DEL UPDATE\
-ES PARTE EN WINRAR DEL DLC
 
 </h4>
 

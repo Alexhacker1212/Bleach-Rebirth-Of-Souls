@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 <a href="[https://github.com/Alexhacker1212/PS3_ROM_CITY/assets/173580098/f84c0299-40f0-4fa6-8d9f-b375e67fb035](https://github.com/Alexhacker1212/Bleach-Rebirth-Of-Souls.git)
-" target="_blank"><img src="[https://cdn.wallpapersafari.com/6/89/neKBA4.jpg](https://www.juegosdigitalesmexico.mx/files/images/thumbs/productos_300x400_1736893826-bleach-rebirth-of-souls-ps4-pre-orden-0.webp)" /></a>
+" target="_blank"><img src="https://cdn.wallpapersafari.com/6/89/neKBA4.jpg" /></a>
 <h1 align="center">Bleach Rebirth Of Souls</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">

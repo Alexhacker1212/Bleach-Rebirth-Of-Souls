@@ -11,7 +11,7 @@ font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height
   
 <h4 align="center">- FUENTE OFICIAL DEL JUEGO - <a href="https://t.me/+ZCGou8c4l_81Y2Qx" target="blank">PS4 ROM PARADISE</a></h4>
 
-<h1 align="center">Bleach Rebirth Of Souls CUSA25090 PKG:</h1>  
+<h1 align="center">Bleach Rebirth Of Souls - CUSA25090 - PKG:</h1>  
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
  
@@ -20,16 +20,16 @@ font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height
 <h4 align="center">
 
 - Título: Bleach Rebirth Of Souls
-  
 - Serial: CUSA25090
-  
 - Región: JPN
-  
 - Idioma: Ingles
-  
 - Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB
-  
 - Formato: PKG
+
+- ES 3 PARTE EN WINRAR DEL JUEGO
+- ES 1 PARTE EN WINRAR DEL UPDATE
+- ES 1 PARTE EN WINRAR DEL DLC
+
 
 </h4>
 

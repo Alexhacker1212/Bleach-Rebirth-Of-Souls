@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 <a href="[https://github.com/Alexhacker1212/PS3_ROM_CITY/assets/173580098/f84c0299-40f0-4fa6-8d9f-b375e67fb035](https://github.com/Alexhacker1212/Bleach-Rebirth-Of-Souls.git)
-" target="_blank"><img src="https://cdn.wallpapersafari.com/6/89/neKBA4.jpg" /></a>
+" target="_blank"><img src="" /></a>
 <h1 align="center">Bleach Rebirth Of Souls</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
@@ -46,7 +46,7 @@ ES PARTE EN WINRAR DEL DLC
 
 - PARTE 2: [Enlace 2](https://www.mediafire.com/file/3xy16f3m3f3niwt/JP0700-CUSA25090_00-A0100-V0100-Shunt75-Isagi-[DLPSGAME.COM].part2.rar/file)
 
-- PARTE 3: [Enlace 3](https://www.mediafire.com/file/qk6tirxvu38q2qq/JP0700-CUSA25090_00-A0100-V0100-Shunt75-Isagi-[DLPSGAME.COM].part3.rar/file))
+- PARTE 3: [Enlace 3](https://www.mediafire.com/file/qk6tirxvu38q2qq/JP0700-CUSA25090_00-A0100-V0100-Shunt75-Isagi-[DLPSGAME.COM].part3.rar/file)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -66,7 +66,7 @@ ES PARTE EN WINRAR DEL DLC
 
 <!-- BLOG-POST-LIST:START -->
 
-- PARTE 1: [Enlace 1](https://www.mediafire.com/file/4kpgoa8jhoim887/B_25090.DLC.Pack-Isagi-[DLPSGAME.COM].rar/file)r)
+- PARTE 1: [Enlace 1](https://www.mediafire.com/file/4kpgoa8jhoim887/B_25090.DLC.Pack-Isagi-[DLPSGAME.COM].rar/file)
 
 <!-- BLOG-POST-LIST:END -->
 

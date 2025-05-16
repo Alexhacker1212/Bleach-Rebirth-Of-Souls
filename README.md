@@ -19,16 +19,17 @@ font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height
 
 <h4 align="center">
 
-<h4 align="center">- Título: - <a href="" target="blank">Bleach Rebirth Of Souls</a></h4>
-- Serial: CUSA25090
-- Región: JPN
-- Idioma: Ingles
-- Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB
-- Formato: PKG
+<h3 align="center">Título: Bleach Rebirth Of Souls</a></h3>
+<h3 align="center">Serial: CUSA25090</a></h3>
+<h3 align="center">Región: JPN</a></h3>
+<h3 align="center">Idioma: Ingles</a></h3>
+<h3 align="center">Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB</a></h3>
+<h3 align="center">Formato: PKG</a></h3>
 
-- ES 3 PARTE EN WINRAR DEL JUEGO
-- ES 1 PARTE EN WINRAR DEL UPDATE
-- ES 1 PARTE EN WINRAR DEL DLC
+
+<h3 align="center">ES 3 PARTE EN WINRAR DEL JUEGO</a></h3>
+<h3 align="center">ES 1 PARTE EN WINRAR DEL UPDATE</a></h3>
+<h3 align="center">ES 1 PARTE EN WINRAR DEL DLC</a></h3>
 
 
 </h4>

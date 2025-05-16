@@ -92,7 +92,7 @@ Credito: Team Paradise
         body {
             margin: 0;
             padding: 0;
-            background-image: url('https://www.dailyzone.com.mx/wp-content/uploads/2025/03/bleach-2.webp'); /* Cambia esta URL por la de tu imagen */
+            background-image: url(https://www.dailyzone.com.mx/wp-content/uploads/2025/03/bleach-2.webp); /* Cambia esta URL por la de tu imagen */
             background-size: cover; /* Para que la imagen cubra toda la pantalla */
             background-position: center; /* Centra la imagen */
             height: 100vh; /* Altura completa de la ventana */
@@ -105,9 +105,4 @@ Credito: Team Paradise
     </style>
 </head>
 <body>
-    <div class="contenido">
-        <h1>Bienvenido a mi página</h1>
-        <p>.</p>
-    </div>
-</body>
 </html>

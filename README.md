@@ -82,3 +82,32 @@ Credito: Team Paradise
 <h4 align="center">
 @copyright 2025 -​ Team Paradise 
 </h4>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('https://www.dailyzone.com.mx/wp-content/uploads/2025/03/bleach-2.webp'); /* Cambia esta URL por la de tu imagen */
+            background-size: cover; /* Para que la imagen cubra toda la pantalla */
+            background-position: center; /* Centra la imagen */
+            height: 100vh; /* Altura completa de la ventana */
+            color: white; /* Color del texto */
+        }
+        .contenido {
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenido">
+        <h1>Bienvenido a mi página</h1>
+        <p>.</p>
+    </div>
+</body>
+</html>

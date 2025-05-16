@@ -5,7 +5,9 @@
 <h1 align="center">Bleach Rebirth Of Souls</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=PS4+ROM+PARADISE+BY+ALEX;Bleach+Rebirth+Of+Souls+en+Pkg;Disfruta+Del+Juego+pibe"></a>
+  
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com
+font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=PS4+ROM+PARADISE+BY+ALEX;Bleach+Rebirth+Of+Souls+en+Pkg;Disfruta+Del+Juego+pibe"></a>
   
 <h4 align="center">- FUENTE OFICIAL DEL JUEGO - <a href="https://t.me/+ZCGou8c4l_81Y2Qx" target="blank">PS4 ROM PARADISE</a></h4>
 
@@ -82,27 +84,3 @@ Credito: Team Paradise
 <h4 align="center">
 @copyright 2025 -​ Team Paradise 
 </h4>
-
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            background-image: url(https://www.dailyzone.com.mx/wp-content/uploads/2025/03/bleach-2.webp); /* Cambia esta URL por la de tu imagen */
-            background-size: cover; /* Para que la imagen cubra toda la pantalla */
-            background-position: center; /* Centra la imagen */
-            height: 100vh; /* Altura completa de la ventana */
-            color: white; /* Color del texto */
-        }
-        .contenido {
-            text-align: center;
-            padding: 20px;
-        }
-    </style>
-</head>
-<body>
-</html>

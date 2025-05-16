@@ -15,18 +15,18 @@
  
 </p> 
 
-<h4 align="center">Título:: Bleach Rebirth Of Souls</h4>
-<h4 align="center">Serial: CUSA25090 </h4>
-<h4 align="center">Región: JPN</h4>
-<h4 align="center">Idioma: Ingles</h4>
-<h4 align="center">Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB</h4> 
-<h4 align="center">Formato: #PKG</h4>
+<h4 align="center">
+- Título: Bleach Rebirth Of Souls
+- Serial: CUSA25090
+- Región: JPN
+- Idioma: Ingles
+- Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB
+- Formato: PKG
+</h4>
 
-
-  
 <h4 align="center">
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Muy+bueno+el+Juego"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+love+game"></a>
 
 </h4>
 

@@ -17,12 +17,7 @@
 
 <h4 align="center">
   
-Título:: BleachRebirthOfSoulsUltimateEdition
-Serial: CUSA25090
-Región: JPN
-Idioma: Ingles
-Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB
-Formato: #PKG
+Título:: Bleach Rebirth Of Souls Serial: CUSA25090 Región: JPN Idioma: Ingles Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB Formato: #PKG
 
 </h4>
 

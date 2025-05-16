@@ -16,12 +16,13 @@
 </p> 
 
 <h4 align="center">
-**Título:** #BleachRebirthOfSoulsUltimateEdition\
-**Serial**: CUSA25090\
-**Región:** JPN\
-**Idioma:** Ingles\
-**Tamaño:** Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB\
-**Formato:** #PKG
+
+*Título:* #BleachRebirthOfSoulsUltimateEdition\
+*Serial*: CUSA25090\
+*Región:* JPN\
+*Idioma:* Ingles\
+*Tamaño:* Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB\
+*Formato:* #PKG
 
 > Nota:\
 > \
@@ -36,8 +37,11 @@ ES PARTE EN WINRAR DEL DLC
 JUEGO 👇🏼👇🏼👇🏼
 </h4>
 
+<h4 align="center">
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Muy+bueno+el+Juego"></a>
+
+</h4>
 
 <h4 align="center">Juego Base</h4>
 
@@ -47,7 +51,7 @@ JUEGO 👇🏼👇🏼👇🏼
 
 - PARTE 2: [Enlace 2](https://www.mediafire.com/file/3xy16f3m3f3niwt/JP0700-CUSA25090_00-A0100-V0100-Shunt75-Isagi-[DLPSGAME.COM].part2.rar/file)
 
-- PARTE 3: [Enlace 3]([https://www.fireload.com/05dcd986c0af8d94/TLOUNOHANBCUSBYCJ.part03.rar](https://www.mediafire.com/file/qk6tirxvu38q2qq/JP0700-CUSA25090_00-A0100-V0100-Shunt75-Isagi-[DLPSGAME.COM].part3.rar/file))
+- PARTE 3: [Enlace 3](https://www.mediafire.com/file/qk6tirxvu38q2qq/JP0700-CUSA25090_00-A0100-V0100-Shunt75-Isagi-[DLPSGAME.COM].part3.rar/file))
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -67,7 +71,7 @@ JUEGO 👇🏼👇🏼👇🏼
 
 <!-- BLOG-POST-LIST:START -->
 
-- PARTE 1: [Enlace 1]([https://www.fireload.com/11e1ce1c7cb0f33b/DLC_BDLCUSLDBBYCJ.part1.ra](https://www.mediafire.com/file/4kpgoa8jhoim887/B_25090.DLC.Pack-Isagi-[DLPSGAME.COM].rar/file)r)
+- PARTE 1: [Enlace 1](https://www.mediafire.com/file/4kpgoa8jhoim887/B_25090.DLC.Pack-Isagi-[DLPSGAME.COM].rar/file)r)
 
 <!-- BLOG-POST-LIST:END -->
 

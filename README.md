@@ -16,20 +16,21 @@
 </p> 
 
 <h4 align="center">
-
-*Título:* #BleachRebirthOfSoulsUltimateEdition\
+*Título:*: BleachRebirthOfSoulsUltimateEdition\
 *Serial*: CUSA25090\
 *Región:* JPN\
 *Idioma:* Ingles\
 *Tamaño:* Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB\
 *Formato:* #PKG
+</h4>
 
+<h4 align="center">
 > Nota:\
 > \
 > Funciona en la 5.05, 9.00 en adelante
+</h4>
 
-**LINK DEL CANAL:** <https://t.me/+ZCGou8c4l_81Y2Qx>
-
+<h4 align="center">
 ES 3 PARTE EN WINRAR DEL JUEGO\
 ES 1 PARTE EN WINRAR DEL UPDATE\
 ES PARTE EN WINRAR DEL DLC
@@ -85,4 +86,6 @@ Credito: Team Paradise
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<h4 align="center">
 @copyright 2025 -​ Team Paradise 
+</h4>

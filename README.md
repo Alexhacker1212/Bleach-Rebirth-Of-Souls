@@ -16,19 +16,15 @@
 </p> 
 
 <h4 align="center">
+  
 Título:: BleachRebirthOfSoulsUltimateEdition
 Serial: CUSA25090
 Región: JPN
 Idioma: Ingles
 Tamaño: Juego: 27,81 GB + Update: 9,54 + DLC: 6,17 MB = 37,95 GB
 Formato: #PKG
-</h4>
 
-<h4 align="center">
-> Nota:\
-> \
-> Funciona en la 5.05, 9.00 en adelante
-
+> Nota: Funciona en la 5.05, 9.00 en adelante
 
 ES 3 PARTE EN WINRAR DEL JUEGO\
 ES 1 PARTE EN WINRAR DEL UPDATE\

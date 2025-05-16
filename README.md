@@ -17,6 +17,7 @@ font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height
  
 </p> 
 
+
 <h4 align="center">
 
 <h3 align="center">Título: Bleach Rebirth Of Souls</a></h3>
